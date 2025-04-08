@@ -1,0 +1,228 @@
+[33mcommit 69966ba0d211e7e02dd877559747dcc0239fdbbc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Muskan <muskangupta6201@gmail.com>
+Date:   Tue Apr 8 18:12:11 2025 +0530
+
+    Pushing complete folder
+
+[33mcommit a460e558bfc9fb620c876c37918ed895927c9964[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mohamed amaan <121436543+modamaan@users.noreply.github.com>
+Date:   Sun Feb 2 11:19:58 2025 +0530
+
+    Update README.md
+
+[33mcommit e65c542398f62a5aa18e04ec907604d9daf26970[m
+Author: Mohamed amaan <121436543+modamaan@users.noreply.github.com>
+Date:   Sun Feb 2 11:19:09 2025 +0530
+
+    Update README.md
+
+[33mcommit a3443e54b1a75826619ef48ef6db08b343c6f6b0[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Thu Oct 24 00:00:31 2024 +0530
+
+    Sponser icon added
+
+[33mcommit 8b9f4989186c8002b3b68cc56cf5ac0b1ccc80dc[m[33m ([m[1;31morigin/speechToText[m[33m)[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Thu Oct 10 21:12:23 2024 +0530
+
+    Speech to text transcription updated using gemini flash api
+
+[33mcommit feb3aec24417c535f99ef61c85db39aae6c93ebb[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Mon Jul 15 14:27:04 2024 +0530
+
+    responsive skelton added
+
+[33mcommit 4f857ebd72b41c448b819c4a67bb77b4564d5535[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Mon Jul 15 12:44:06 2024 +0530
+
+    pyq skelton added
+
+[33mcommit 1f6d4bebff23570586e074db89b9b4e3007808d5[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Mon Jul 15 00:19:13 2024 +0530
+
+    pyq question added based qualification
+
+[33mcommit eba8e9712498d8a36cc133299faa5013b507c620[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Thu Jul 4 14:52:33 2024 +0530
+
+    Responsive Header updated successfully
+
+[33mcommit 9311e02cbd41ba73592af5240202a53aa3553d18[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Thu Jul 4 14:42:13 2024 +0530
+
+    Question page added successfully
+
+[33mcommit e2f4f3a417d6c295d5e9eb78a59fa222d5e621a4[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Wed Jul 3 00:57:02 2024 +0530
+
+    Default theme change to white
+
+[33mcommit 73c9bbcca1cc761a6ba9e544fe19d46b406d6616[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Wed Jul 3 00:52:06 2024 +0530
+
+    Dark and White mode addedd using shadcn
+
+[33mcommit 1aa223501b9ea7d62d327b42954ddbef44a13f24[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Tue Jul 2 23:21:24 2024 +0530
+
+    How it works page updated
+
+[33mcommit c3be06b79ba6979107e15cb0261b9bef1f734f4a[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Tue Jul 2 21:21:49 2024 +0530
+
+    try to add how it work page
+
+[33mcommit 8910675bfdb4cd75da24c37d017be7b7f8a4334a[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Tue Jul 2 00:28:47 2024 +0530
+
+    Contect api and Responsive added successfully
+
+[33mcommit d96eab60173d847b7983d3450f81ee667779bbfa[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Mon Jul 1 18:54:33 2024 +0530
+
+    Docker file added successfully
+
+[33mcommit 06477ec4a9f2c18461235a1b377f139ed983a3ab[m
+Merge: 1ee232e 9ca67c8
+Author: Mohamed amaan <121436543+modamaan@users.noreply.github.com>
+Date:   Fri Jun 28 16:41:44 2024 +0530
+
+    Merge pull request #2 from modamaan/new-1
+    
+    loader added
+
+[33mcommit 9ca67c857f7df7316ab25d627be4ceaa41024dcc[m[33m ([m[1;31morigin/new-1[m[33m)[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Fri Jun 28 16:39:22 2024 +0530
+
+    loader added
+
+[33mcommit 1ee232e1fae51208493dcf4e1128838f1eadc837[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Fri Jun 28 16:25:00 2024 +0530
+
+    form failed
+
+[33mcommit 90286af4effaf28bcd73de2d6b385d05dfdea3f8[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Fri Jun 28 15:41:24 2024 +0530
+
+    git issue solved
+
+[33mcommit 0df662df85ab28baff8643d11e00d9eb0529a2cf[m
+Merge: f5e0e13 613054b
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Fri Jun 28 15:33:48 2024 +0530
+
+    Resolve merge conflicts
+
+[33mcommit f5e0e1388a73831639321a0915457cf0be1551a6[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Fri Jun 28 15:31:26 2024 +0530
+
+    added
+
+[33mcommit a78f1b32b7eb455d810662ec8b12c33bca0cbe59[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Fri Jun 28 10:02:29 2024 +0530
+
+    updates
+
+[33mcommit 2453e89bbde09c9685d9fbfd95c72b707bd78e83[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Fri Jun 28 09:35:54 2024 +0530
+
+    loding circle added
+
+[33mcommit 613054ba2e293e9868275a1ab72bae0b90e2e9a7[m
+Merge: 05e9e64 f927853
+Author: Mohamed amaan <121436543+modamaan@users.noreply.github.com>
+Date:   Fri Jun 28 01:32:42 2024 +0530
+
+    Merge pull request #1 from modamaan/updates
+    
+    Updates
+
+[33mcommit f927853bbfbd9f6fc10d39e7f4ebbeaf48bf6b47[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Fri Jun 28 01:27:52 2024 +0530
+
+    Header UserButton laging issue solved
+
+[33mcommit 75add1d556beac84b72827395c86cacf769937a1[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Fri Jun 28 01:26:18 2024 +0530
+
+    Contact form addedd
+
+[33mcommit 05e9e6400e7765dcb63dcda1380365997f03e22f[m
+Author: Mohamed amaan <121436543+modamaan@users.noreply.github.com>
+Date:   Tue Jun 25 13:42:37 2024 +0530
+
+    Update README.md
+
+[33mcommit 6777633df778133be1d2dd8e003a361843c9794f[m
+Author: Mohamed amaan <121436543+modamaan@users.noreply.github.com>
+Date:   Tue Jun 25 13:38:20 2024 +0530
+
+    Update README.md
+
+[33mcommit a9b920f187a4d582079e53d787987297a43fba27[m
+Author: Mohamed amaan <121436543+modamaan@users.noreply.github.com>
+Date:   Tue Jun 25 13:10:58 2024 +0530
+
+    Update README.md
+
+[33mcommit adb484c197356463d8e34e5416e8c41dcdb06f15[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Mon Jun 24 12:26:40 2024 +0530
+
+    header updated
+
+[33mcommit 33fbc9edd037735863cd3769dc1c7537b8165fe2[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Mon Jun 24 11:39:19 2024 +0530
+
+    contact schema added
+
+[33mcommit c1fd4d0d654ceed39b456701cc7c15d966400c6b[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Mon Jun 24 11:38:30 2024 +0530
+
+    contact component addedd
+
+[33mcommit 2b403a045bd9efb5b26f81a06cae755cfdcc5737[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Mon Jun 24 11:37:45 2024 +0530
+
+    frontpage updated
+
+[33mcommit 0f9568630deef3d911475af57b4e37ac1f350c29[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Sat Jun 22 13:37:03 2024 +0530
+
+    frontend updated
+
+[33mcommit 07e807f48128d5cb1039536dcc303a557ae4d3fa[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Sat Jun 22 13:11:04 2024 +0530
+
+    Initial commit
+
+[33mcommit 3f0e6c3c4215cbcfd13889d7ab4ddeda22e70e0a[m
+Author: Mohamed amaan <mohamedamaan319@gmail.com>
+Date:   Tue Jun 18 22:58:16 2024 +0530
+
+    Initial commit from Create Next App
